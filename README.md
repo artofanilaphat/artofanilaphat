@@ -96,8 +96,6 @@ Some are played.
 
 <div align="center">
 
-# ☾ What I Create
-
 🎮 **Games with heart.**
 
 🎨 **Worlds worth exploring.**
@@ -112,22 +110,6 @@ Some are played.
 
 ---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=artofanilaphat&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artofanilaphat&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artofanilaphat&theme=midnight-purple&hide_border=true&background=00000000"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -139,6 +121,6 @@ Some are played.
 
 <br>
 
-### 𝑺𝒖𝒆 ✦ นาซ
+### 𝑺𝒖𝒆 นาซ
 
-</div>a
+</div>
