@@ -1,51 +1,119 @@
-```markdown
 <div align="center">
 
-# hey, i'm **Sue** 🌙
+# 𓆩☾𓆪 𝑺𝒖𝒆
 
-*game dev • game artist • storyteller*
+### ✦ game developer • game artist • storyteller ✦
 
-> *"In another life, we'd still find each other."* 🏳️‍🌈
+> *"Create the kind of world where love never has to hide."* 🏳️‍🌈
 
-I love creating worlds that people can get lost in.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1400&color=C792EA&center=true&vCenter=true&width=700&lines=Designing+dreams.;Building+worlds.;Animating+feelings.;Writing+stories+worth+remembering." />
 
-Whether I'm designing gameplay, painting environments, animating a tiny detail, or writing a story that lingers long after the credits roll—I'm happiest when I'm making something that feels alive.
+━━━━━━━━━━━━━━━━━━━━━━━
 
-🎮 **Game Developer**  
-🎨 **Game Artist**  
-🖋️ **Storyteller** for games & animation
+I don't just make games—I build places people can feel.
 
-Currently crafting interactive experiences one pixel, one line of code, and one story at a time.
+Whether I'm designing gameplay, painting environments, creating animations,
+or writing stories, I'm always chasing one thing:
 
----
+**making someone feel something.**
 
-### 🛠️ Tech & Tools
+I'm inspired by cinematic moments, quiet emotions, and beautiful worlds.
+Every project is another chance to tell a story worth staying for.
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge)
+━━━━━━━━━━━━━━━━━━━━━━━
 
----
+🎮 **Game Developer**
 
-### ✨ Currently
+🎨 **Game Artist**
 
-🌌 Building games.  
-📖 Writing stories.  
-🎬 Learning more about animation.  
-☕ Collecting ideas I'll eventually turn into worlds.
+🎬 **Animation Storyteller**
 
----
+🖋️ **Narrative Designer**
 
-### 💜 A little reminder
+🌙 **World Builder**
 
-*"Games aren't just played—they're remembered."*
-
-<br>
-
-**— Sue (Naz / Naz — Naz written in Thai: นาซ) 🌙**
+✨ turning ideas into playable memories.
 
 </div>
+
+---
+
+# 𓆩⚜️𓆪 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs,git,blender,vscode,ps,ai,figma&perline=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp"/>
+<img src="https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game_Art-C792EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Storytelling-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Animation-9370DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative_Coding-6A5ACD?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ☾ currently
+
+```txt
+🌌 Building interactive worlds.
+
+🎨 Creating game art & concepts.
+
+🎬 Learning animation every day.
+
+📖 Writing stories that deserve to be experienced.
+
+☕ Probably working on another project.
 ```
+
+---
+
+<div align="center">
+
+## ✦ philosophy ✦
+
+*"Games aren't remembered because they're finished.*
+
+*They're remembered because they made someone feel alive."*
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🌙 𝑺𝒖𝒆 นาซ
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=midnight-purple&hide_border=true&background=00000000)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KULLANICI_ADIN&theme=github_dark)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&style=flat-square&color=8A2BE2"/>
+
+</div>
