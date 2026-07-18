@@ -8,7 +8,7 @@
 
 <br>
 
-> *"Create the kind of world where love never has to hide."* 🏳️‍🌈
+> *"Create the kind of world where love never has to hide."* 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
