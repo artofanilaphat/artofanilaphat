@@ -4,23 +4,27 @@
 
 ### *interactive storyteller · game developer · game artist*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1500&color=C792EA&center=true&vCenter=true&width=700&lines=Building+worlds.;Designing+feelings.;Writing+stories.;Creating+memories.;Making+someone+feel+something." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1500&color=C792EA&center=true&vCenter=true&width=720&lines=Building+worlds.;Writing+stories.;Designing+feelings.;Creating+memories.;One+frame+at+a+time." />
 
 <br>
 
-> *"Create the kind of world where love never has to hide."* 
+> *"Create the kind of world where love never has to hide."* 🏳️‍🌈
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ✦ ☾ ✦
 
-I create games that feel like memories.
+Some people write books.
 
-Driven by storytelling, cinematic visuals, and meaningful gameplay,
-I'm always exploring new ways to turn emotions into interactive experiences.
+Some make films.
 
-From gameplay systems to concept art,
-from animation to narrative—
+I build games.
 
-**I don't just build games. I build worlds worth coming back to.**
+I love creating places where people can stay a little longer,
+stories they carry home,
+and moments that quietly remain with them.
+
+From gameplay systems and environments to animation and narrative—
+
+**I'm here to make people feel something.**
 
 </div>
 
@@ -28,7 +32,7 @@ from animation to narrative—
 
 <div align="center">
 
-## ⚜️ Tech Arsenal
+# ⚜️ Tech Arsenal
 
 <p>
 
@@ -42,20 +46,40 @@ from animation to narrative—
 
 </p>
 
+<br>
+
+<img src="https://img.shields.io/badge/Gameplay-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Game_Art-BD93F9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Storytelling-C792EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Animation-9370DB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Narrative_Design-FF7AC8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Worldbuilding-7B68EE?style=for-the-badge"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## ☾ currently.exe
+# ☾ currently.exe
 
 ```txt
-▸ building games
-▸ painting worlds
-▸ writing stories
-▸ learning animation
-▸ surviving on caffeine
+▸ making games i'll obsess over
+
+▸ painting imaginary places
+
+▸ writing stories no one asked for
+
+▸ studying animation
+
+▸ listening to thai playlists
+
+▸ surviving almost entirely on caffeine
 ```
 
 </div>
@@ -64,11 +88,11 @@ from animation to narrative—
 
 <div align="center">
 
-## ✦ Philosophy
+# ✦ philosophy
 
-*"The best stories aren't just watched.*
+*"The best stories don't ask to be remembered.*
 
-*They're lived."*
+*They simply refuse to be forgotten."*
 
 </div>
 
@@ -107,5 +131,7 @@ from animation to narrative—
 <br><br>
 
 ### ☾ 𝑺𝒖𝒆 ✦ นาซ
+
+*see you in another world.*
 
 </div>
