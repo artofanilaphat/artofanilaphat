@@ -2,7 +2,7 @@
 
 # 𓆩☾𓆪 𝑺𝒖𝒆
 
-### ✦ game developer • game artist • storyteller ✦
+### ✦ Game Developer • Game Artist • Storyteller ✦
 
 
 
@@ -10,7 +10,6 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-I don't just make games—I build places people can feel.
 
 Whether I'm designing gameplay, painting environments, creating animations,
 or writing stories, I'm always chasing one thing:
