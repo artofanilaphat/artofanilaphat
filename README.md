@@ -22,6 +22,22 @@ Some memories are lived.
 
 Some are played.
 
+<table align="center">
+<tr>
+<td width="33%">
+<img src="banner1.jpg"/>
+</td>
+
+<td width="33%">
+<img src="banner2.jpg"/>
+</td>
+
+<td width="33%">
+<img src="banner3.jpg"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -29,16 +45,6 @@ Some are played.
 <div align="center">
 
 # 👾 Creative Toolkit
-
-<!-- Aesthetic Banner -->
-
-<p align="center">
-  <img src="./banner1.jpg" width="31.5%">
-  <img src="./banner2.jng" width="31.5%">
-  <img src="./banner3.jng" width="31.5%">
-</p>
-
-<br>
 
 <!-- Main Software -->
 
