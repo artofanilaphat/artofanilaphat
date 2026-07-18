@@ -33,9 +33,9 @@ Some are played.
 <!-- Aesthetic Banner -->
 
 <p align="center">
-  <img src="./banner1.png" width="31.5%">
-  <img src="./banner2.png" width="31.5%">
-  <img src="./banner3.png" width="31.5%">
+  <img src="./banner1.jpg" width="31.5%">
+  <img src="./banner2.jng" width="31.5%">
+  <img src="./banner3.jng" width="31.5%">
 </p>
 
 <br>
