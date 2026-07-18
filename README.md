@@ -4,7 +4,7 @@
 
 ### ✦ game developer • game artist • storyteller ✦
 
-> *"Create the kind of world where love never has to hide."* 🏳️‍🌈
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1400&color=C792EA&center=true&vCenter=true&width=700&lines=Designing+dreams.;Building+worlds.;Animating+feelings.;Writing+stories+worth+remembering." />
 
@@ -108,6 +108,7 @@ Every project is another chance to tell a story worth staying for.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KULLANICI_ADIN&theme=github_dark)
 
+*"Create the kind of world where love never has to hide."* 🏳️‍🌈
 </div>
 
 ---
