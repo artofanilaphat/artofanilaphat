@@ -2,7 +2,7 @@
 
 # 𝑺𝒖𝒆 🪽💌
 
-### *interactive storyteller ✨ · game developer 💻 · visual artist 🎨*
+### *Always so much things to say · game developer 💻 · visual artist 🎨*
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1700&color=C792EA&center=true&vCenter=true&width=760&lines=Building+worlds.;Writing+stories.;Designing+feelings.;Animating+dreams.;Creating+memories.;One+frame+at+a+time." />
 
@@ -12,28 +12,20 @@
 
 ˚₊‧꒰ა ☾ ໒꒱ ‧₊˚
 
-I collect emotions,
-turn them into stories,
-paint them into worlds,
-bring them to life through animation,
-and let players discover pieces of themselves along the way.
 
-Some memories are lived.
-
-Some are played.
 
 <table align="center">
 <tr>
 <td width="33%">
-<img src="banner1.jpg"/>
+<img src="banner1.png"/>
 </td>
 
 <td width="33%">
-<img src="banner2.jpg"/>
+<img src="banner2.png"/>
 </td>
 
 <td width="33%">
-<img src="banner3.jpg"/>
+<img src="banner3.png"/>
 </td>
 </tr>
 </table>
@@ -96,15 +88,7 @@ Some are played.
 
 <div align="center">
 
-🎮 **Games with heart.**
-
-🎨 **Worlds worth exploring.**
-
-🎬 **Animations that speak quietly.**
-
 📖 **Stories people carry with them.**
-
-🌙 **Little moments that stay long after the screen goes dark.**
 
 </div>
 
@@ -121,6 +105,7 @@ Some are played.
 
 <br>
 
-### 𝑺𝒖𝒆 นาซ
+### ˚₊‧꒰ა ☾ 𝑺𝒖𝒆 นาซ ໒꒱ ‧₊˚ 
+
 
 </div>
