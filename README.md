@@ -25,15 +25,15 @@ Some are played.
 <table align="center">
 <tr>
 <td width="33%">
-<img src="banner1.jpg"/>
+<img src="banner1.png"/>
 </td>
 
 <td width="33%">
-<img src="banner2.jpg"/>
+<img src="banner2.png"/>
 </td>
 
 <td width="33%">
-<img src="banner3.jpg"/>
+<img src="banner3.png"/>
 </td>
 </tr>
 </table>
