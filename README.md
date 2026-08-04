@@ -2,7 +2,7 @@
 
 # 𝑺𝒖𝒆 🪽💌
 
-### *Always so much things to say · game developer 💻 · visual artist 🎨*
+### *Always so much things to say · GameDev 💻 · Visual Artist 🎨*
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1700&color=C792EA&center=true&vCenter=true&width=760&lines=Building+worlds.;Writing+stories.;Designing+feelings.;Animating+dreams.;Creating+memories.;One+frame+at+a+time." />
 
