@@ -90,15 +90,8 @@ Some are played.
 
 <div align="center">
 
-🎮 **Games with heart.**
-
-🎨 **Worlds worth exploring.**
-
-🎬 **Animations that speak quietly.**
 
 📖 **Stories people carry with them.**
-
-🌙 **Little moments that stay long after the screen goes dark.**
 
 </div>
 
