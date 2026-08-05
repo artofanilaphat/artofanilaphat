@@ -8,7 +8,7 @@
 
 <br>
 
-> *"May every story become a place where someone finally feels at home."* 🌈
+> *"Pelican Town's favorite troublemaker."* 🌈
 
 ˚₊‧꒰ა ☾ ໒꒱ ‧₊˚
 
