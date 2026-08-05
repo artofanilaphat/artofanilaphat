@@ -12,12 +12,6 @@
 
 ˚₊‧꒰ა ☾ ໒꒱ ‧₊˚
 
-I collect emotions,
-turn them into stories,
-paint them into worlds,
-bring them to life through animation,
-and let players discover pieces of themselves along the way.
-
 Some memories are lived.
 
 Some are played.
@@ -121,6 +115,6 @@ Some are played.
 
 <br>
 
-### 𝑺𝒖𝒆 นาซ
+###  ˚₊‧꒰ა ☾ 𝑺𝒖𝒆 นาซ ໒꒱ ‧₊˚
 
 </div>
