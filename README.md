@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝑺𝒖𝒆 🪽💌
+# Sue (Nam) Naz 🪽💌
 
 ### *interactive storyteller ✨ · game developer 💻 · visual artist 🎨*
 
